@@ -1,0 +1,32 @@
+.home-page{
+    background-color: #80191991;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home-content-div{
+    text-align: center;
+}
+
+.home-content-div p{
+    font-size: large;
+}
+
+.navbar{
+    background-color: rgba(125, 44, 44, 0.507);
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.navbar a{
+    text-decoration: solid;
+    font-size: large;
+}
+
+.facts-page{
+    background-color: #3a11617a;
+}
