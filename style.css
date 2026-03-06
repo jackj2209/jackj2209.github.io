@@ -1,5 +1,5 @@
 .home-page{
-    background-color: #80191991;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0.831), rgb(255, 170, 0));
 }
 
 body{
@@ -15,7 +15,7 @@ body{
 }
 
 .navbar{
-    background-color: rgba(125, 44, 44, 0.507);
+    background-color: rgba(128, 7, 7, 0.507);
     display: flex;
     justify-content: space-evenly;
     padding-top: 1.5%;
@@ -28,7 +28,7 @@ body{
 }
 
 .facts-page{
-    background-color: #3a11617a;
+  background-image: linear-gradient(to bottom, rgba(255, 106, 0, 0.841), rgba(255, 0, 144, 0.803));
 }
 .facts-content-div{
     margin-left: 10%;
@@ -56,4 +56,8 @@ body{
     font-weight: bold;
     font-size: x-large;
     height: 1%;
+}
+
+.gallery-page {
+    background-image: linear-gradient(to bottom, rgb(255, 0, 166), rgb(255, 170, 0));
 }
